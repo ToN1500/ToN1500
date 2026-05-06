@@ -16,9 +16,7 @@
 </p>
 
 ---
-
-### 📧 Interstellar Contact
-[**LinkedIn**](www.linkedin.com/in/hirunsripratum) | [**GitHub**](https://github.com/ToN1500) | [**Email**](mailto:hirunsripratum@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/hirunsripratum) | [**GitHub**](https://github.com/ToN1500) | [**Email**](mailto:hirunsripratum@gmail.com)
 
 <p align="right">
   <i>"Every problem has a solution."</i>
